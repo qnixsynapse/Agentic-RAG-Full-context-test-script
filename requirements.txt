@@ -1,0 +1,6 @@
+openai==1.15.0
+PyMuPDF==1.24.6
+tiktoken==0.6.0
+matplotlib==3.8.0
+numpy==2.0.0
+requests==2.32.0
